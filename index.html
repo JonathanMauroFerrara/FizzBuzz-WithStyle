@@ -4,12 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style/main.css">
+    <title>FizzBuzz Game</title>
 </head>
 <body>
-    <input type="number" id="numb" name="numb">
-    <input type="submit" id="send" onclick="prova()">
-
-<script src="main.js"></script>
+    <div id="element">
+        <button id="btn__start">Start FizzBuzz Game!</button>
+        <button id="btn__reset">Reset FizzBuzz Game!</button>
+        <ul id="number_list">
+        </ul>
+    </div>
+<script type="module" src="./js/main.js"></script>
+<script type="module" src="./js/n_control.js"></script>
+<script type="module" src="./js/n_print.js"></script>
 </body>
 </html>
