@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Lemonada:wght@600&display=swap");
+
+body,html{
+    margin: 0 auto;
+    background-color: rgb(24, 28, 29);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+div{
+    position: relative;
+    color: white;
+    height: 100%;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+button{
+    position: relative;
+    background-color: rgb(255, 218, 7);
+    height: 120px;
+    width: 250px;
+    font-family:'Lemonada';
+    font-size: 1.2rem;
+    color: rgb(24, 28, 29);
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(207, 181, 34);
+    transition: .5s all;
+    border: 1px solid white;
+    top: -2px;
+    color: white;
+}
+
+#btn__start{
+    top: 20%;
+}
+
+#btn__reset{
+    top: 20%;
+    display: none;
+    margin-top: 0px;
+}
+
+li {
+    list-style-type: none;
+    margin-top: 3px;
+}
+
+ul{
+    margin-top: 250px;
+    columns: 10;
+}
+
