@@ -18,14 +18,13 @@ This is the simple FizzBuzz game revisitated with some personalized function! En
 - Learn how to use effects and events.
 
 ### Tools :wrench:
-Figma, Trello, Toggl.
+Trello, Toggl.
 
 ### Tecnologies  :computer:
 HTML, CSS, Javascript.
 
 ### Future new features for improve my skills :bulb:
-- Include SASS pre-proccessor 
-- Use Webpack as bundler for SASS
+- Make it responsive!
 
 
 ### Deploy
