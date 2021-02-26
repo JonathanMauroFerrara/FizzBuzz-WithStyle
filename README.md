@@ -1,5 +1,5 @@
 
-<h1 align="center">FizzBuzz Game! :boy:<h1>
+<h1 align="center">FizzBuzz Game! :black_joker:<h1>
  
 ### Description :point_down:
 This is the simple FizzBuzz game revisitated with some personalized function! Enjoy it!
